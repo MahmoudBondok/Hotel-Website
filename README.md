@@ -1,5 +1,5 @@
-# Full-Responsive-Hotel-Website
+# Hotel-Website
+
 Building a responsive hotel website with Bootstrap
 
-### `Site Live: `https://cinar00-responsive-hotel-website.netlify.app/
-"# Hotel-Website" 
+# Live Demo : https://mahmoudbondok.github.io/Hotel-Website/
